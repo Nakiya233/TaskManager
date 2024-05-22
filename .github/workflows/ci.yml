@@ -16,5 +16,5 @@ jobs:
         with:
             distribution: 'temurin'
             java-version: '21'
-      - run: java UserLogin.java
       - run: java UserRegistration.java
+      - run: java UserLogin.java
